@@ -1,1 +1,1 @@
-This is the text file
+Changes in the text file one and pull to local
